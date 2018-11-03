@@ -1,4 +1,4 @@
-# Cmpe150 - 2018 Fall - Quiz 1
+# Cmpe150 Fall 2018 Quiz 1
 
 ## Question 1
 
