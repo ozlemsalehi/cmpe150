@@ -3,7 +3,7 @@
 ### You can find the quiz solutions inside the Quiz folder.
 
 
-###For the other sections:
+### For the other sections:
 
 https://github.com/hkmztrk/CMPE150/
 https://github.com/suyunu/c-notes
