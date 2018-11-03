@@ -5,7 +5,7 @@
 Write a program which reads a lower-case letter from the user. Print its upper-case version. 
 Assume that the input character will always be a lower-case letter.
 
-## Examples:
+### Examples:
 
 |INPUT|	OUTPUT|
 |------|-------|
@@ -17,7 +17,7 @@ Assume that the input character will always be a lower-case letter.
 
 Write a program which reads three integers (a,b,c) from the user. Then prints their average as a float with 1 decimal places. (Hint: "%.1f")
 
-## Examples:
+### Examples:
 
 |INPUT	| OUTPUT |
 |-------|--------|
@@ -39,7 +39,7 @@ s - secretary (2000$)
 You can see the base salaries of people with different titles. If a person completes 10 years there will be an addition of 50% to their salaries. Write a program that calculates the current salary of a person and prints it.
 Assume: Characters will always be lower-case b, w or s.
 
-## Examples:
+### Examples:
 
 | INPUT	| OUTPUT |
 | ------|--------|
@@ -54,7 +54,7 @@ Write a program which reads an integer X, if the integer X is odd your program s
 
 Notice that in some of the example inputs there are some extra integers. If entered in one line, your program should not take the extra integers into account.
 
-## Examples:
+### Examples:
 
 |INPUT	| OUTPUT |
 |-------|---------|
@@ -73,7 +73,7 @@ Write a program which reads characters until the user enters a digit. After read
 
 Assume: The input will be one line and will include at least one digit.
 
-## Examples:
+### Examples:
 
 | INPUT |	OUTPUT |
 | ---------------------------------------- | ---------------- |
