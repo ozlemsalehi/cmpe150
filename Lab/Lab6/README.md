@@ -1,3 +1,5 @@
+### Nested loops
+
 #### Q1) Take an integer n from the user and draw the following triangles of height n.
 
 <pre>
