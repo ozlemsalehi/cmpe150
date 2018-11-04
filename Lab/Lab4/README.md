@@ -29,7 +29,7 @@ You want to take a single integer from the user. Using %d for reading is not all
 
 Write a program that takes a number and prints its total digit count and also even(çift) digit count. 
 
-#### P12) (Lab 4.12) Average of even numbers
+#### P4) (Lab 4.12) Average of even numbers
 
 Write a program that will take integers until the user enters an odd number. Then print the average of the even numbers. 
 
