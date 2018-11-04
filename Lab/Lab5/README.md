@@ -23,7 +23,7 @@ Perfect number is the positive number whose sum of its positive divisors except 
 Fibonacci numbers are: 0, 1,1, 2, 3, 5, 8, 13, 21, 34, .... 
 (Each number is sum of the previous twonumbers except the first two numbers 0 and 1which are predefined)
 
-#### P2) (Lab 4.6) Write a program that takes 2 integers a and b, then prints the result of a^b (a*a*a...*a*a). 
+#### P2) (Lab 4.6) Write a program that takes 2 integers a and b, then prints the result of a^b (axaxa...xaxa). 
 
 #### P3) (Lab 4.7) Write a program that takes 2 integers and prints their greatest common divisor (GCD). 
 
