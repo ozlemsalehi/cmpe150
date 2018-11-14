@@ -13,7 +13,10 @@ Write a function which takes two integers as parameters and prints all the prime
 
 ### Pass by reference
 
-#### Ex1) Swap (Lab6.1)
+#### Ex1) Increment
+Increment the value of an integer inside a function using pointer.
+
+#### Ex2) Swap (Lab6.1)
 
 Write a function that takes as input two integer pointers and swaps their values.  
 
