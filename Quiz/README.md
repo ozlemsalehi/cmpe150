@@ -82,3 +82,20 @@ Assume: The input will be one line and will include at least one digit.
 |Just Use A Loop!8|	JUST USE A LOOP!|
 |fD%Hg_?+*3gg**!!cc|	FD%HG_?+*|
 
+# Cmpe150 Fall 2018 Quiz 4
+
+## Question
+
+Write a program which reads an integer N. Then your program should read N more integers and print their factorial.
+
+### Examples:
+
+| INPUT |	OUTPUT |
+| ---------------------------------------- | ----------------|
+|5 <br> 1 2 3 4 5	|1 2 6 24 120|
+|7 <br> 4 3 5 2 6 1 7 2 2 2 2|	24 6 120 2 720 1 5040|
+|1 <br> 3|	6 |
+|3 <br> 0 4 2 | 1 24 2|
+
+
+
