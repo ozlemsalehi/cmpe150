@@ -98,4 +98,19 @@ Write a program which reads an integer N. Then your program should read N more i
 |3 <br> 0 4 2 | 1 24 2|
 
 
+# Cmpe150 Fall 2018 Quiz 5
+
+## Question
+
+In the main function, two integers are read from the user into the variables a and b. Complete the program by writing two functions, divide and print_result. Function divide takes two integers and returns a float value which is the division of the two parameters. In the main function this returned value is assigned to the variable r. Function print_result takes a float parameter and prints it to the console using 2 decimal places. ("%.2f")
+
+Assume: b will not be zero.
+Note: Do not edit the main function!
+
+|INPUT	|OUTPUT|
+|-------|------|
+|50 8	|6.25
+|45 100	|0.45
+|145 50|	2.90
+|4 2|	2.00
 
