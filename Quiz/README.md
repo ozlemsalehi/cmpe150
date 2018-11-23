@@ -107,6 +107,8 @@ In the main function, two integers are read from the user into the variables a a
 Assume: b will not be zero.
 Note: Do not edit the main function!
 
+### Examples:
+
 |INPUT	|OUTPUT|
 |-------|------|
 |50 8	|6.25
@@ -114,3 +116,33 @@ Note: Do not edit the main function!
 |145 50|	2.90
 |4 2|	2.00
 
+# Cmpe150 Fall 2018 Quiz 6
+
+## Question
+
+Write a function named func which takes addresses of three integers as parameters (three integer pointers).
+The first pointer will store the summation of those three integer pointers' values.
+The second pointer will store the multiplication of those three integer pointers' values.
+This function doesn't need to return anything.
+
+The given main program creates three integer variables and reads their values from the user. Then calls the func function, but you should fill in the parameters passed to the call, so that the addresses of these three integer variables are passed to the function. The final version of the function call part should look like this:
+
+                
+	func(
+	// DO_NOT_EDIT_ANYTHING_ABOVE_THIS_LINE
+	**,**,**
+	// DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
+	);
+which is equivalent for compiler to this:
+
+                
+	func(**,**,**);
+Then the given program prints these changed values to the screen.
+
+### Examples:
+
+|INPUT|	OUTPUT|
+|-----|-------|
+|1 5 10|	16 50|
+|4 4 4|	12 64|
+|-5 -10 2|	-13 100|
