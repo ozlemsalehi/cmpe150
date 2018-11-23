@@ -31,7 +31,6 @@ int binary2(int n){
 	while(n>0){
 		number+=n%2*digit;
 	    n=n/2;
-
 	    digit*=10;
 	}
 
