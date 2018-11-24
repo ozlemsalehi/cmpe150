@@ -13,31 +13,31 @@ https://github.com/suyunu/c-notes
 
 ### Lab content
 
-## Lab 3
+#### Lab 3
 
 If, Else if, Switch
 
-## Lab 4
+#### Lab 4
 
 While loops
 
-## Lab 5
+#### Lab 5
 
 For Loops, break, continue
 
-## Lab 6
+#### Lab 6
 
 Nested loops
 
-## Lab 7
+#### Lab 7
 
 Functions
 
-## Lab 8 
+#### Lab 8 
 
 Functions and pointers (pass by reference)
 
-## Lab 9
+#### Lab 9
 
 Macros, additional exercises on functions and pointers
 
