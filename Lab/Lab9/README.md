@@ -140,5 +140,44 @@ Then write a program which reads a word from the user until user hits enter, and
 |hagi| HAGI|
 |cmpe 150| CMPE 150|
 
+#### P8) Sort using pointers
 
+Write a function named sort which takes 3 integers (say n1,n2,n3) and 2 integer parameters (say minPtr, maxPtr). 
+The function sorts the three integers n1, n2 and n3 and stores the minimum and maximum values inside min and max pointers.
+
+|INPUT|OUTPUT|
+|------|-----|
+|4 -7 -7|min: -7 max: 4|
+|9 0 20 |min: 0 max: 20|
+|-3 -4 -5| min: -5 max: -3|
+
+#### P9) Character sequence
+
+You are going to read a sequence of characters from the user until user hits the enter key and make the the following modifications.
+
+- If the character is lowercase, change it to uppercase
+
+- If the character is uppercase, change it to lowercase
+
+- If the character is a digit, print it using letters
+
+You have to implement the following functions
+
+- isLowerCase: returns 1 if the character is a lowercase letter and 0 otherwise
+
+- isUpperCase: returns 1 if the character is an uppercase letter and 0 otherwise
+
+- isDigit: returns 1 if the character is a digit and 0 otherwise
+
+- toLowerCase: returns the lowercase of the given character
+
+- toUpperCase: returns the uppercase of the given character
+
+- printDigit: void function which prints the given integer
+
+
+|Input|Output|
+|-----|------|
+|CmpE150 Boun!!!|cMPEonefive bOUN!!!|                                                                                                    |HeLlO1.hi5+WORLD111|hElLoone.HIfive+worldoneoneone|
+|1234567890 numbers--|onetwothreefourfivesixseveneightnine NUMBERS--|
 
