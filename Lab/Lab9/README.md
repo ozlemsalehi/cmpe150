@@ -178,6 +178,6 @@ You have to implement the following functions
 
 |Input|Output|
 |-----|------|
-|CmpE150 Boun!!!|cMPEonefive bOUN!!!|                                                                                                    |HeLlO1.hi5+WORLD111|hElLoone.HIfive+worldoneoneone|
-|1234567890 numbers--|onetwothreefourfivesixseveneightnine NUMBERS--|
+|CmpE150 Boun!!!|cMPEonefivezero bOUN!!!|               
+|1234567890 numbers--|onetwothreefourfivesixseveneightninezero NUMBERS--|
 
