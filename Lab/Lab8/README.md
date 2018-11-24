@@ -6,7 +6,9 @@
 Write a function which takes an integer parameter and returns its of divisors.
 
 #### Q2) isPrime (Lab5.14)
-Write a function takes an integer parameter and returns 1 if the number is prime and 0 otherwise. (Use Q1)
+Write a function takes an integer parameter and returns 1 if the number is prime and 0 otherwise.
+
+(You may use Q1 or write an alternative code to check if an integer is prime)
 
 #### Q3) allPrime (Lab5.15)
 Write a function which takes two integers as parameters and prints all the prime numbers between them. (Use Q2)
