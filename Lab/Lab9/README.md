@@ -26,7 +26,7 @@ The number will always have more than digit digits.
 The number and digit are positive.
 digit is smaller than 10.
 
-#### Examples:
+#### Examples: 
 
 |INPUT|OUTPUT|
 |-----|------|
@@ -36,7 +36,7 @@ digit is smaller than 10.
 
 ### Functions
 
-#### Q4) Fibonacci (Lab5.16)
+#### Q4) Fibonacci (Lab 5.16)
 
 Write a function that will take a positive integer n, and returns the nth fibonacci number. 
 
@@ -54,7 +54,7 @@ Then write main appropriately to see the result.
 |10 |34| 
 |15 |377| 
 
-#### Q5) Perfect number (Lab5.12)
+#### Q5) Perfect number (Lab 5.12)
 
 Write a function that will take an integer n, and returns 't' if it's a perfect number*. Otherwise the function should return 'f'. 
 Perfect Number: a positive integer that is equal to the sum of its positive divisors excluding the number itself. 
@@ -74,7 +74,7 @@ Then write main appropriately to see the result.
 
 ### Additional problems
 
-#### P1) Binary (Lab5.13)
+#### P1) Binary (Lab 5.13)
 
 Write a function that will take an integer as a parameter. 
 Then calculates and returns its binary version as another integer. 
@@ -95,12 +95,12 @@ Then write main appropriately to see the result.
 Write power function which takes two integer numbers a and b, then calculates and returns a^b. 
 Then write main() appropriately to see the result. 
 
-#### P3) Factorial (Lab5.9)
+#### P3) Factorial (Lab 5.9)
 
 Write a function that takes an integer as a parameter, and returns the factorial of it. 
 Then write main() appropriately to see the result. 
 
-#### P4) Sum of factorials (Lab5.10)
+#### P4) Sum of factorials (Lab 5.10)
 
 Write a function that takes an integer as a parameter. 
 Then returns the summation of each digits' factorial. 
@@ -113,11 +113,11 @@ Then write main() appropriately to see the result.
 |43 |30 |
 |354| 150 |
 
-#### P5) Rectangle (Lab5.8)
+#### P5) Rectangle (Lab 5.8)
 
 Write a function that takes two integers as parameters n and m, and prints out a rectangle nxm using '*'s. 
 
-#### P6) Reverse of an integer (Lab5.7)
+#### P6) Reverse of an integer (Lab 5.7)
 
 Write a function that will take an integer number and return its reverse version as another integer. 
 Then fill/write main() appropriately to see the result. 
@@ -127,11 +127,11 @@ Then fill/write main() appropriately to see the result.
 |1234 |4321 |
 |68436 |63486| 
 
-#### P7) toUpper (Lab5.2)
+#### P7) toUpper (Lab 5.2)
 
-Write a function named toUpper whichtakes a char as input, and returns theupper case version of the character ifit is a lower case letter. Otherwise itshould return the same character. 
+Write a function named toUpper which takes a char as input, and returns the upper case version of the character if it is a lower case letter. Otherwise it should return the same character. 
 
-Then write a program which reads a wordfrom the user, and prints it withupper case characters. Assume valid wordswill be given. 
+Then write a program which reads a word from the user until user hits enter, and prints it with upper case characters. Assume valid words will be given. 
 
 |INPUT|OUTPUT|
 |------|-----|
