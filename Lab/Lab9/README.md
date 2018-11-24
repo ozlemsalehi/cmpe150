@@ -127,4 +127,18 @@ Then fill/write main() appropriately to see the result.
 |1234 |4321 |
 |68436 |63486| 
 
+#### P7) toUpper (Lab5.2)
+
+Write a function named toUpper whichtakes a char as input, and returns theupper case version of the character ifit is a lower case letter. Otherwise itshould return the same character. 
+
+Then write a program which reads a wordfrom the user, and prints it withupper case characters. Assume valid wordswill be given. 
+
+|INPUT|OUTPUT|
+|------|-----|
+|bogazici |BOGAZICI |
+|CmpE |CMPE|
+|hagi| HAGI|
+|cmpe 150| CMPE 150|
+
+
 
