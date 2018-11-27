@@ -1,4 +1,7 @@
 # Welcome to CMPE150.01 Fall 2018
+----------------------------------------------------------------
+## I will be at BM26 until 16:30 if you have any questions.
+----------------------------------------------------------------
 
 ### You can find the quiz problems and solutions inside the Quiz folder.
 
