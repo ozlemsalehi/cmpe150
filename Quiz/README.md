@@ -155,17 +155,6 @@ Write a program that will read an integer N and N many numbers into an array. Pr
 
 Assume: N < 20
 
-INPUT	OUTPUT
-5
-1 2 3 4 5	3 4 5
-10
-1 10 10 10 10 10 10 10 10 10	10 10 10 10 10 10 10 10 10
-7
-1 1 1 1 1 6 7	6 7
-3
-1 4 5	4 5
-
-
 ### Examples:
 
 |INPUT|	OUTPUT|
