@@ -146,3 +146,32 @@ Then the given program prints these changed values to the screen.
 |1 5 10|	16 50|
 |4 4 4|	12 64|
 |-5 -10 2|	-13 100|
+
+# Cmpe150 Fall 2018 Quiz 7
+
+## Question
+
+Write a program that will read an integer N and N many numbers into an array. Print the numbers that are greater or equal to the average of the N numbers. Printing should have the same order as the input sequence.
+
+Assume: N < 20
+
+INPUT	OUTPUT
+5
+1 2 3 4 5	3 4 5
+10
+1 10 10 10 10 10 10 10 10 10	10 10 10 10 10 10 10 10 10
+7
+1 1 1 1 1 6 7	6 7
+3
+1 4 5	4 5
+
+
+### Examples:
+
+|INPUT|	OUTPUT|
+|-----|-------|
+|5 <br> 1 2 3 4 5|3 4 5|
+|10 <br> 1 10 10 10 10 10 10 10 10 10| 10 10 10 10 10 10 10 10 10|
+|7 <br > 1 1 1 1 1 6 7|	6 7|
+|3 <br> 1 4 5 | 4 5|
+
