@@ -1,0 +1,38 @@
+Ordinary sorting algorihtm works as follows:
+
+Size = 5
+Array: 9 1 8 5 7
+
+i=0 j=1   1 9 8 5 7
+i=0 j=2   1 9 8 5 7
+i=0 j=3   1 9 8 5 7
+i=0 j=4   1 9 8 5 7
+After the first round, the smallest element is in 1st place
+
+i=1 j=2  1 8 9 5 7
+i=1 j=3  1 5 9 8 7
+i=1 j=4  1 5 9 8 7
+After the second round, the second smallest element is in 2nd place
+
+i=2 j=3  1 5 8 9 7
+i=2 j=4  1 5 7 9 8
+
+i=3 j=4  1 5 7 8 9
+
+Each time you make an exchange, ith position holds a smaller integer than its previous value
+
+Another example:
+
+Array: 8 6 4 2 3 9 1  (Only iterations with change are indicated)
+
+i=0 j=1  6 8 4 2 3 9 1 
+i=0 j=2  4 8 6 2 3 9 1
+i=0 j=3  2 8 6 4 3 9 1
+i=0 j=6  1 8 6 4 3 9 2
+i=1 j=2  1 6 8 4 3 9 2
+i=1 j=3  1 4 8 6 3 9 2
+i=1 j=4  1 3 8 6 4 9 2
+i=1 j=6  1 2 8 6 4 9 3
+i=2 j=6  1 2 3 6 4 9 8
+i=3 j=4  1 2 3 4 6 9 8
+i=5 j=6  1 2 3 4 6 8 9
