@@ -164,3 +164,22 @@ Assume: N < 20
 |7 <br > 1 1 1 1 1 6 7|	6 7|
 |3 <br> 1 4 5 | 4 5|
 
+# Cmpe150 Fall 2018 Quiz 8
+
+## Question
+
+Write a program which reads an integer N from the user as the array size, and reads N more integers into an integer array. Then, read another integer M from the user. Program should check if integer M exists in the array, and it should print the index and the value in that index of the array as the result. If M is not found in the array, program should print "Not found" (This is already given in the code). If M occurs in the array more than once, index of the last occurrence should be printed. 
+
+Assume that N < 100.
+
+In the main program, array definition, reading the integer N, and the index definition is given to you. Also, parts to print the index and the value is given. Do not modify those lines.
+
+### Examples:
+
+|INPUT|	OUTPUT|
+|-----|-------|
+|5 <br> 3 5 7 9 2 <br>|2 7|
+|3 <br> 22 12 19<br> 19| 2 19|
+|4 <br > 4 6 8 10 <br>| Not found|
+
+
