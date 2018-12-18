@@ -1,6 +1,6 @@
 ### Multidimensional Arrays
 
-#### Q1) Matrix Operations
+#### Q1) Matrix Operations (PS 14.3)
 
 We have two two-dimensional matrices whose dimensions are 2x4.
 Write a function for computing the sum of these two matrices. Write another function to compute the transpose of a give matrix
@@ -46,5 +46,11 @@ You can assume that (you should ensure that) destination string is large enough:
 #### Q4) Compare strings
 
 Write a function which returs 0  if two strings are same and -1 otherwise
+
+### Additional problems
+
+#### P1) Random matrices
+
+Read the size m and n of the matrices from the user and read two integers min and max. Create two mxn matrices with random entries between min and max. Find their sum and print.
 
 
