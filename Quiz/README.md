@@ -182,4 +182,20 @@ In the main program, array definition, reading the integer N, and the index defi
 |3 <br> 22 12 19<br> 19| 2 19|
 |4 <br > 4 6 8 10 <br>| Not found|
 
+# Cmpe150 Fall 2018 Quiz 9
 
+## Question
+
+In the main function, two integers are read from the user into the variables N and M. read_array and print_array functions are also written for you. Complete the program by writing fill_rows_with_max function. Function fill_rows_with_max takes a 2D integer array, and two integers as array's row and column sizes. This function should fill each row with that row's maximum element.
+
+Assume: N < 10 and M < 10.
+Note: Do not edit the main, read_array or print_array functions!
+
+### Examples:
+
+|INPUT|	OUTPUT|
+|-----|-------|
+|2 3 <br> 1 3 2 <br> 4 6 5|3 3 3 <br> 6 6 6|
+|4 3<br>-4 11 5<br>-3 -2 -1<br>0 0 5<br>17 18 19 |11 11 11 <br>-1 -1 -1 <br>5 5 5 <br>19 19 19|
+|5 5<br>3 2 4 5 1<br>0 0 0 0 2<br>9 7 5 3 0<br>1 3 5 7 8<br>-5 -4 -3 -6 -7 | 5 5 5 5 5 <br>2 2 2 2 2 <br>9 9 9 9 9  <br> 8 8 8 8 8 <br>-3 -3 -3 -3 -3|
+|1 8<br>3 2 4 5 1 6 4 3 | 6 6 6 6 6 6 6 6 |
