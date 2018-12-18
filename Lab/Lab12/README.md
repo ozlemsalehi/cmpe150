@@ -22,13 +22,13 @@ average grade.
 |3 4 <br>80 70 100 40 <br> 60 20 10 30 <br> 0 10 40 30<br>2 |Average of student 2: 20.00|
 
 
-Modify your code and and read a course number from the user and
+Now read also a course number from the user and
 calculate and output that course's average and students who are above 
 average.
 
 |Input|Output|
 |-----------|--------------|
-|3 4 <br> 80 70 100 40<br> 60 20 10 30 <br> 0 10 40 30<br>1 |Course average: 33.33 <br> Students above average: 0|
+|3 4 <br> 80 70 100 40<br> 60 20 10 30 <br> 0 10 40 30<br>2 <br> 1|Average of student 2: 20.00 <br> Average of course 1: 33.33 <br> Students above average: 0|
 
 ### Strings
 
