@@ -7,7 +7,7 @@ Write a function for computing the sum of these two matrices. Write another func
 
 |INPUT| OUTPUT| 
 |-----------|--------------|
-|10 3 7 8 <br> 1 2 -1 4  <br> 1 0 3 4  <br> 3 2 9 8 | 11 3 10 12  <br> 4 4 8 12| 
+|10 3 7 8 <br> 1 2 -1 4  <br> 1 0 3 4  <br> 3 2 9 8 |Sum: <br> 11 3 10 12  <br> 4 4 8 12 <br> Transpose of the sum: <br> 11 4 <br> 3 4 <br> 10 8 <br> 12 12| 
 
 #### Q2) Student grades and average
 
