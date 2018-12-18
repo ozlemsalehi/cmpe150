@@ -49,4 +49,6 @@ Arrays
 
 Passing arrays to functions
 
+#### Lab 12
 
+Multidimensional arays and strings
