@@ -47,12 +47,25 @@ You can assume that (you should ensure that) destination string is large enough:
 
 Write a function which returs 0  if two strings are same and -1 otherwise
 
-### Additional problems
+### Additional problems on multidimensional arrays
 
 #### P1) Random matrices
 
 Read the size m and n of the matrices from the user and read two integers min and max. Create two mxn matrices with random entries between min and max. Find their sum and print.
 
+#### P2) Chess (Lab 9.2)
+
+Write a program which reads a chessboard as an8x8 matrix from the user. In the chessboard,there will be one rook (kale) represented byinteger: 8, and multiple pawns (piyonlar) representedby integer: 1. The rest will be empty: 0. 
+
+The rook will capture the closest possible pawn.Your program should print the chessboard to the screenafter the capture. 
+
+#### P3) Grid (Lab 9.3) 
+
+Write a program which reads a 10x10 matrixfrom the user. This matrix will represent agrid world, and each element represents a cell.A cell is empty if it is 0, and blocked if it is 1. 
+
+Assume a player will start from thetop-left, (0,0), and will try to reach thebottom-right (9, 9) of the grid. Player is allowedto go up, down, left, right, and one cell each time.The top-left and bottom-right corners will always begiven empty. 
+
+Your program should find if there is such a possible path.Print yes, or no accordingly. 
 
 
 
