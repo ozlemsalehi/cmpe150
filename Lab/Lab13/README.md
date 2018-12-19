@@ -18,7 +18,7 @@ Make sure your program works when x=1 and when x the number of words in the sent
 
 #### Ex1) Some examples on structs
 
-#### Q1) Student letter grades (Lab 10.1)
+#### Q2) Student letter grades (Lab 10.1)
 
 The given code defines a struct: Student. The programcurrently reads an integer: n, then readsmidterm 1, midterm 2 and final grades of n students.Assigns an id to each student from 1000 to 1000+n-1,and gives a letter grade 'I' to each of them. Then printstheir id's and letter grades. 
 
@@ -34,7 +34,7 @@ You should complete the given section to assign anappropriate letter grade to ea
 
 Exam weights are 30%, %30, %40, respectively. 
 
-#### Q2) Richest of the poorest family (Lab 10.3)
+#### Q3) Richest of the poorest family (Lab 10.3)
 
 Define a struct named: Person which has an age, and a salary.
 Define a struct named: Family which has up to 9 persons and personCount (integer). 
@@ -48,7 +48,7 @@ the least total salary. (age of the richest person in the poorest family)
 |1<br>40 5000<br>2<br>50 2000<br>40 5000<br>2<br>30 3500<br>15 500|Age of the richest in the poorest family: 30|
 
 
-#### Q3) Sort books (Lab 8b.1)
+#### Q4) Sort books (Lab 8b.1)
 
 Define a struct named: Book. Each book should have aname with exactly 3 letters (abbreviation). Each bookshould also have a page count (integer), and a price (integer). 
 
