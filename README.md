@@ -13,6 +13,11 @@ https://github.com/suyunu/c-notes
 
 ### Lab content
 
+Inside the lab folder you will see that some of the questions are denoted by ex, some by q and some by p.
+Ex: I solved in the lab as the first example.
+Q: You solved in the lab.
+P: Additional problems which we didn't have time to solve.
+
 #### Lab 3
 
 If, Else if, Switch
