@@ -52,3 +52,7 @@ Passing arrays to functions
 #### Lab 12
 
 Multidimensional arays and strings
+
+#### Lab 13
+
+Strings and structs
