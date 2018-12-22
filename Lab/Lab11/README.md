@@ -27,3 +27,14 @@ Then print the first array to see the updated version
 
 Write a function which takes as input an integer array and its size and returns the maximum element.
 
+### Additional problems on passing arrays to functions
+
+#### P1) Mergesort
+
+Write a function which takes three integer arrays,and the sizes of the first and the second array (n, m).The first and the second arrays will be sorted (ascending) as they are given.The function should merge the first and the second array into the third one in sorted manner.The third array's content is unimportant,and its size should be large enough (>=n+m). It will be used as the output of the function. 
+
+In the main program read two sorted arrays (as you did in the previous question), and create the third one. Then pass them into the function, then print the third array to see the result. 
+
+
+|---INPUT---|---OUTPUT---| 
+|4 5 <br> 1 3 5 8 <br> 2 3 4 5 6 | 1 2 3 3 4 5 5 6 8| 
