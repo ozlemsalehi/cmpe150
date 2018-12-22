@@ -33,3 +33,18 @@ Then decrypt this sentence by adding -1 toeach character, and print the decrypte
 #### Q4) Digits first
 
 Read a sequence of characters (letters and digits) until user hits enter. First print the digits and then the characters in order of appearance.
+
+### Additional problems on arrays
+
+#### P1) Index of appearance (Lab 7.3)
+
+Write a program which reads two integers: N and Mfrom the user. Then the program should readN more integers, then M more integers from theuser. Assume N<M<50. 
+
+If the first combination of N integers appearat least once in the second combination of M integers,the program should write the starting index of th efirst appearance in the second combination. Otherwise it should not print anything. 
+
+|---INPUT---|---OUTPUT---|
+|-----------|------------|
+|4 12 <br> 4 5 6 5 <br> 1 2 1 2 99 99 4 5 6 5 9 9 |6 |
+
+
+
