@@ -39,3 +39,8 @@ In the main program read two sorted arrays (as you did in the previous question)
 |---INPUT---|---OUTPUT---| 
 |-----------|------------|
 |4 5 <br> 1 3 5 8 <br> 2 3 4 5 6 | 1 2 3 3 4 5 5 6 8| 
+
+#### P2) Binary search
+
+Suppose we have a sorted array with size N. Write a function that finds a given number in this array, and returns the index of its location. If the number is not found, your function should return -1. 
+Perform search by using binary search algorithm.
