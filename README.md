@@ -12,6 +12,10 @@ https://github.com/hkmztrk/CMPE150/
 
 https://github.com/suyunu/c-notes
 
+#### Exercises for the final exam by Hakime
+
+https://github.com/hkmztrk/CMPE150/tree/master/finalexercise
+
 ### Lab content
 
 Inside the lab folder you will see that some of the questions are denoted by ex, some by q and some by p.
