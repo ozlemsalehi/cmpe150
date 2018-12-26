@@ -95,4 +95,25 @@ NOTES:
 |THIS is the SECOND SENTENCE|	isthe|
 |this is the third sentence	|rdc|
 
+### Additional problems on struct 
 
+#### P4) Max performance and salary (Archive 26)
+
+In a startup software company, there are two kinds of employees, C Developers and Java Developers. Each employee has a unique ID as integer, a monthly salary as integer, and performance as integer, which can have an integer value between 1 to 5 (inclusive). 
+
+Furthermore, the startup company has three C Developers and three Java Developers as employees. 
+
+With this information given,
+
+Define a struct with three fields, and name:
+Name: Employee
+Fields: three integers ID, salary, and performance.
+Define another struct with two fields, and name:
+Name: Company
+Fields: two Employee arrays, one named cDevelopers, and the other one named javaDevelopers, both containing three elements.
+Write a function named maxPerformance which takes an array of Employees as input parameter and finds the employee with the highest performance among the given employees and returns the ID of the employee as integer. (Assume that the employee who has the highest performance for each employee type is unique).
+Main program is given for you. In main program, information about employees are read from the user, maxPerformance is called twice (once for C Developers and once for Java Developers), salary of the employees with the best performance is increased by 500, and the ID and updated salary of the best performing employees are printed on the screen. Don't change anything in main program.
+
+|INPUT|	OUTPUT|
+|-----|-------|
+|0 3000 4 <br> 1 3500 3 <br>2 4000 2 <br>0 2250 5 <br>1 2500 3 <br>2 2000 1|0 3500 <br>0 2750 |
