@@ -50,13 +50,13 @@ the least total salary. (age of the richest person in the poorest family)
 
 #### Q4) Sort books (Lab 8b.1)
 
-Define a struct named: Book. Each book should have aname with exactly 3 letters (abbreviation). Each bookshould also have a page count (integer), and a price (integer). 
+Define a struct named: Book. Each book should have aname with exactly 3 letters (abbreviation). Each book should also have a page count (integer), and a price (integer). 
 
 Write a program which reads an integer n first, thenreads the names, page counts and prices ofn books. 
 
-Write a function which takes an array of books, andsorts them according to their prices. 
+Write a function which takes an array of books, and sorts them according to their prices. 
 
-Using that function, your program should printthe names and page counts ofeach book with the order of their prices.
+Using that function, your program should print the names and page counts of each book with the order of their prices.
 
 |Input|Output|
 |-----|-----|
