@@ -6,6 +6,10 @@
 
 #### Please let me know if there are any errors.
 
+#### You can send me an e-mail if you have any questions.
+
+ozlem.salehi[at]boun.edu.tr
+
 ### For the other sections:
 
 https://github.com/hkmztrk/CMPE150/
