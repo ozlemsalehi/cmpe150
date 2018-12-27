@@ -13,7 +13,7 @@ int update(int array1[], int array2[],int n,int m){
 				found=1;
 			}
 		}
-		if(!found){
+		if(!found){ //same as found!=1
 			temp[index]=array1[i];
 			index++;
 		}
