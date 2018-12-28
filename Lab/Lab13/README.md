@@ -1,5 +1,37 @@
 ### Strings
 
+#### Some useful string functions
+
+char sentence[100];
+
+char word[30];
+
+- strlen(sentence) gives you the length of the sentence array
+
+- strcpy(sentence,word) copies the content of the word array into the sentence array (use when you want to write sentence=word), not safe since word might be longer than sentence and there is no check by the function
+
+- strncpy(sentence,word,10) copies the first 10 characters of the word array into the sentence array
+
+- strcmp(sentence,word) returns 0 if the content of the two arrays are equal (read the details from the slides)
+
+#### Reading strings
+
+- Use %c and read char by char
+
+When to use? You can always use %c to read strings but you may prefer to use especially if you are reading something until a special character is entered (like '*', '\n', '.')
+- Use %s
+
+When to use? When you are reading a single word. %s reads a string until it finds a space or a new line. Be careful when using multiple %s since it leaves the space ' ' or new line '\n' in the buffer and the next string you read by %s becomes ' ' or '\n'.
+
+- Use fgets
+
+When to use? When you want to read until user hits enter and when you want to read spaces. Be careful since fgets reads also the new line character '\n'. If the user enters "cmpe", then your array will look like this: 'c' 'm' 'p' 'e' \n','\0'. This is important when you use strcmp since "cmpe" and "cmpe\n" are different strings and strlen will return 5 instead of 4. Other than that, when you print the two strings you will have the same output except an extra space.
+
+- Use gets
+
+When to use? gets is very similar to fgets except that it doesn't include the new line character at the end of the string. Unlike scanf, it doesn't leave it in the buffer neither. '\n' disappears :) However you will see warnings in your code since it is not safe to use. If your array is 10 characters long and if the user enters a longer input string, then you have a problem since gets does not have a limit like fgets.
+
+
 #### Q1) Find the nth word in a sentence (Lab 8b.2)
 
 Write a function which takes a sentence as a string (char array)with size at most 150, and one integer (x), and another empty
